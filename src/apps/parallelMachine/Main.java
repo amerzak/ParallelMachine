@@ -23,5 +23,6 @@ public class Main {
         AlgorithmHodgsonMoore algo = new AlgorithmHodgsonMoore();
         solution = algo.solve(pOne);
         pOne.toString();
+        // pas facile
     }
 }
